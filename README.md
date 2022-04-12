@@ -1,6 +1,6 @@
 📢 
 # Hi there 👋, I'm ISSAKA HAMA Barhamou (💻💖☕)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Student+in+software+engineering+at;alx+,+amateur+and+defender+of+free+software,+amateur+in+Cyber+security;+enthusiast+of+algorithms+and+mathematics.;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Student+in+software+engineering+at;alx+,+amateur+and+defender+of+free;software,+amateur+in+Cyber+security;enthusiast+of+algorithms+and+mathematics.;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 <!--
 **ginabeki/ginabeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
