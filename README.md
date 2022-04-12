@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <p> 
   <a href="https://twitter.com/BarhamouHama" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/barhamou-hama-90047b179/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="http://www.france-ioi.org/user/perso.php?sLogin=barhamou" target="_blank"><img alt="FranceIOI" src="" /></a> 
 </p>
 </div>
 
