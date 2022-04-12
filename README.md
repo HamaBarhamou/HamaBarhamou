@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p> 
   <a href="https://twitter.com/BarhamouHama" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/barhamou-hama-90047b179/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://tryhackme.com/p/spyderniger" target="_blank"><img alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/spyderniger.png" /></a> 
+  <a href="https://tryhackme.com/p/spyderniger" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/spyderniger.png" alt="TryHackMe"></a> 
   <a href="http://www.france-ioi.org/user/perso.php?sLogin=barhamou" target="_blank"><img alt="FranceIOI" src="/Images/france-ioi.jpeg" /></a> 
   <a href="https://www.codingame.com/profile/4b64838485f1e54cce2d616e201bb7969377233" target="_blank"><img alt="Codingame" src="" /></a> 
 
