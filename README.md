@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 
 <p> 
-  <a href="https://twitter.com/BarhamouHama" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://twitter.com/hama_barhamou" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/barhamou-hama-90047b179/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://tryhackme.com/p/spyderniger" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/spyderniger.png" alt="TryHackMe" height="55" width="180"></a> 
   <a href="https://www.root-me.org/barhamou?lang=fr#c1695c08b8aeb8054f835df75b0b171c" target="_blank"><img src="/Images/rooteme.png" alt="Roote Me" height="55" width="180"></a> 
@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 
 </p>
 </div>
-<img heigth="300" src="https://skyline.github.com/HamaBarhamou/2021" />
+
+
