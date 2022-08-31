@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <a href="https://www.root-me.org/barhamou?lang=fr#c1695c08b8aeb8054f835df75b0b171c" target="_blank"><img src="/Images/rooteme.png" alt="Roote Me" height="55" width="180"></a> 
   <a href="http://www.france-ioi.org/user/perso.php?sLogin=barhamou" target="_blank"><img alt="FranceIOI" src="/Images/france-ioi.jpeg" height="55" width="180" /></a> 
   <a href="https://www.codingame.com/profile/4b64838485f1e54cce2d616e201bb7969377233" target="_blank"><img alt="Codingame" src="/Images/codingame.png" height="55" width="180" /></a> 
+  <a href="https://hamabarhamou.github.io/monCV/" target="_blank"><img alt="Mon CV" src="/Images/cv.png" height="55" width="180" /></a> 
 
 </p>
 </div>
