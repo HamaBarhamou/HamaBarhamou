@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <a href="http://www.france-ioi.org/user/perso.php?sLogin=barhamou" target="_blank"><img alt="FranceIOI" src="/Images/france-ioi.jpeg" height="55" width="180" /></a> 
   <a href="https://www.codingame.com/profile/4b64838485f1e54cce2d616e201bb7969377233" target="_blank"><img alt="Codingame" src="/Images/codingame.png" height="55" width="180" /></a> 
   <a href="https://hamabarhamou.onrender.com/" target="_blank"><img alt="Mon Portfolio" src="/Images/Portfolio.png" height="55" width="180" /></a> 
-
+  <a href="https://leetcode.com/barhamou/" target="_blank"><img alt="leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbarhamou&logo=leetcode&logoColor=yellow" /></a>
 </p>
 </div>
 
