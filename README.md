@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 
 ## Open Source Contributions
 
-I am currently involved in several open source projects, particularly with the Django framework. Here are some of my ongoing contributions:
-
+I am currently working on several open source projects, including :
 ### Django
 
 - 🐍 [Add where clause in QuerySet.bulk_create() when update_conflicts=True](https://github.com/django/django/pull/17515)
