@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
+
 ## Open Source Contributions
 
 I am currently involved in several open source projects, particularly with the Django framework. Here are some of my ongoing contributions:
@@ -63,5 +64,6 @@ I am currently involved in several open source projects, particularly with the D
 
 - 🐍 [Ajout d'une clause WHERE dans QuerySet.bulk_create() lorsqu'update_conflicts=True](https://github.com/django/django/pull/17515)
 - 🐍 [Autorisation de QuerySet.bulk_create() sur l'héritage multi-table lorsqu'il est possible](https://github.com/django/django/pull/17754)    
+
 </div>
 
