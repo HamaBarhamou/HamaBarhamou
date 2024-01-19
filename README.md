@@ -50,6 +50,14 @@ Here are some ideas to get you started:
 
   <a href="https://www.hackerrank.com/hamabarhamou?hr_r=1" target="_blank"><img alt="hackerrank" src="/Images/hackerrang.png" height="55" width="180" /></a>
 </p>
+
+## Open Source Contributions
+
+Here are some of my open source contributions
+
+- [Add where clause in QuerySet.bulk_create() when update_conflicts=True](https://github.com/django/django/pull/17515)
+- [Allow QuerySet.bulk_create() on multi-table inheritance when possible](https://github.com/django/django/pull/17754)
+
 </div>
 
 
