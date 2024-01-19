@@ -62,8 +62,8 @@ I am currently involved in several open source projects, particularly with the D
 
 ### Django
 
-- 🐍 [Ajout d'une clause WHERE dans QuerySet.bulk_create() lorsqu'update_conflicts=True](https://github.com/django/django/pull/17515)
-- 🐍 [Autorisation de QuerySet.bulk_create() sur l'héritage multi-table lorsqu'il est possible](https://github.com/django/django/pull/17754)    
+- 🐍 [Add where clause in QuerySet.bulk_create() when update_conflicts=True](https://github.com/django/django/pull/17515)
+- 🐍 [Allow QuerySet.bulk_create() on multi-table inheritance when possible](https://github.com/django/django/pull/17754)    
 
 </div>
 
