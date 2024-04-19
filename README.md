@@ -64,5 +64,8 @@ I am currently working on several open source projects, including :
 - 🐍 [Add where clause in QuerySet.bulk_create() when update_conflicts=True](https://github.com/django/django/pull/17515)
 - 🐍 [Allow QuerySet.bulk_create() on multi-table inheritance when possible](https://github.com/django/django/pull/17754)    
 
+### Django-jazzmin
+- 🐍 [forum django: Django-jazzmin - Logout](https://forum.djangoproject.com/t/django-jazzmin-logout/26110/2)
+- 🐍 [ Issues github: Django-jazzmin - Logout](https://github.com/farridav/django-jazzmin/issues/524)
 </div>
 
